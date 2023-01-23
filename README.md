@@ -1,7 +1,12 @@
-### Hi there 👋
+# Anurag Bambardekar
 
+**`Graduate Student of Electrical & Computer Engineering at Rutgers University`**
 
-**AnuragBambardekar/AnuragBambardekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As an Electronics & Telecommunication Engineer with an undergraduate degree in the same field and a year of experience in the IT industry, I am currently pursuing a Masters degree in Electrical and Computer Engineering with a focus on Software Engineering. My background in electronics has sparked my interest in understanding how software works, and how it can be used to solve real-world problems.
+
+I am particularly interested in the Web application development (Full-Stack), Internet of Things, and computer architecture. I am currently brushing up my programming skills, focusing on Python, C, Data Structures, React.js. I also like to work with electronics. In the past I have worked with Arduino, Atmega 32A and also dabbled a bit in RaspberryPi. Also I have experience in PCB designing and CAD.
+
+I am always looking for new and challenging projects to work on, and I am excited to continue my learning journey in the field of software engineering. I am eager to collaborate with other developers and contribute to open-source projects. Let's connect and work together to create something amazing.
 
 Here are some ideas to get you started:
 
