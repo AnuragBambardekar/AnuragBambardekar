@@ -4,9 +4,28 @@
 
 As an Electronics & Telecommunication Engineer with an undergraduate degree in the same field and a year of experience in the IT industry, I am currently pursuing a Masters degree in Electrical and Computer Engineering with a focus on Software Engineering. My background in electronics has sparked my interest in understanding how software works, and how it can be used to solve real-world problems.
 
-I am particularly interested in the Web application development (Full-Stack), Internet of Things, and computer architecture. I am currently brushing up my programming skills, focusing on Python, C, Data Structures, React.js. I also like to work with electronics. In the past I have worked with Arduino, Atmega 32A and also dabbled a bit in RaspberryPi. Also I have experience in PCB designing and CAD.
+I am particularly interested in the Web application development (Full-Stack), Internet of Things, Machine Learning, and computer architecture. I am currently brushing up my programming skills, focusing on Python, C, Data Structures, React.js. I also like to work with electronics. In the past I have worked with Arduino, Atmega 32A and also dabbled a bit in RaspberryPi. Also I have experience in PCB designing and CAD.
 
 I am always looking for new and challenging projects to work on, and I am excited to continue my learning journey in the field of software engineering. I am eager to collaborate with other developers and contribute to open-source projects. Let's connect and work together to create something amazing.
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="LaTeX" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+<br />
 
 Here are some ideas to get you started:
 
