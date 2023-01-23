@@ -43,3 +43,9 @@ I am always looking for new and challenging projects to work on, and I am excite
 ![Bamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragBambardekar&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnuragBambardekar&theme=gruvbox&border_radius=4.5)
+
+#
+
+<details>
+<summary><h3> My Coding Journey </h3></summary>
+I am a self-taught programmer with a passion for learning and understanding everything about the programming world. I began my journey as an Electronics & Telecommunication Engineer. However, my desire to excel in programming led me to a full-stack software engineering job upon graduation. While working in the IT industry, I took part and lead in several projects which further piqued my curiosity to learn more which is when I decided to pursue a Master's degree in Electrical & Computer Engineering. So, now I am learning all the cool stuff in the electronics + software world and always seek to apply my learnings wherever I can.
