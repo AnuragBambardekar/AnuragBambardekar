@@ -36,3 +36,10 @@ I am always looking for new and challenging projects to work on, and I am excite
 - 💬 Ask me about SimpleScalar.
 - ⚡ Fun fact: I can eat Chicken Schezwan Fried Rice Everyday and I won't get bored. 😋
 
+#
+
+### 📊 Stats
+
+![Bamba's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragBambardekar&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AnuragBambardekar&theme=gruvbox&border_radius=4.5)
