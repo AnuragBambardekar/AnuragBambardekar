@@ -1,3 +1,4 @@
 - https://www.youtube.com/watch?v=9A8sQZDRn5o&t=521s - ForrestKnight - Custom GitHub Profile README Portfolio
 - https://devicon.dev/ - Icons
 - https://github.com/anuraghazra/github-readme-stats - Profile stats
+- https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s - Profile stats rate-limmit error solution
