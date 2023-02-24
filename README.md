@@ -43,7 +43,7 @@ I am always looking for new and challenging projects to work on, and I am excite
 
 ### 📊 Stats
 
-![Bamba's GitHub stats](https://github-readme-statistics-one.vercel.app/api?username=AnuragBambardekar&show_icons=true&theme=gruvbox)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnuragBambardekar&theme=gruvbox&border_radius=4.5)
 
