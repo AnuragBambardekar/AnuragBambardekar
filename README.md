@@ -48,6 +48,8 @@ I am always looking for new and challenging projects to work on, and I am excite
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnuragBambardekar&theme=gruvbox&border_radius=4.5)
 
+![Visits Badge](https://komarev.com/ghpvc/?username=AnuragBambardekar&label=Profile%20views&color=0e75b6&style=flat)
+
 #
 
 <details>
