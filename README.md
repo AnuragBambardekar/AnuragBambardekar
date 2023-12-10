@@ -33,11 +33,11 @@ I am always looking for new and challenging projects to work on, and I am excite
 
 ---
 
-- 🔭 I’m currently working on writing simple Python programs for all 365 days of 2023.
-- 🌱 I’m currently learning Data Structures & Algorithms, Software Engineering with Web Apps and Computer Systems.
-- 👯 I’m looking to collaborate on React.js projects.
-- 🤔 I’m looking for help with Multi-processing and Parallel Computing.
-- 💬 Ask me about SimpleScalar.
+- 🔭 I’m currently working on my Master's thesis.
+- 🌱 I’m also learning Data Structures & Algorithms and GNU Radio.
+- 👯 I’m interested to collaborate on projects (Full Stack, ML).
+- 🤔 I’m looking for help with GNU Radio.
+- 💬 Ask me about my research, SimpleScalar and 365 Days of Python.
 - ⚡ Fun fact: I can eat Chicken Schezwan Fried Rice Everyday and I won't get bored. 😋
 
 #
