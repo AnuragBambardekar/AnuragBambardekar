@@ -2,7 +2,7 @@
 
 **`Graduate Student of Electrical & Computer Engineering at Rutgers University`**
 
-As an Electronics & Telecommunication Engineer with an undergraduate degree in the same field with a Masters degree in Electrical and Computer Engineering with a focus on Software Engineering and a year of experience in the IT industry, I am currently working as a Systems Engineer @ Molex specializing in all things Smart Building Systems. My background in electronics has sparked my interest in understanding how software works, and how it can be used to solve real-world problems.
+As an Electronics & Telecommunication Engineer with an undergraduate degree in the same field along with a Masters degree in Electrical and Computer Engineering with a focus on Software Engineering + Thesis on 5G Systems, and a year of experience in the IT industry, I am currently working as a Systems Engineer @ Molex specializing in all things Smart Building Systems. My background in electronics has sparked my interest in understanding how software works, and how it can be used to solve real-world problems.
 
 I am particularly interested in the Smart Building Systems, Web application development (Full-Stack), Internet of Things, Machine Learning, and computer architecture. I am currently brushing up my programming skills, focusing on Python, C, Data Structures, React.js. I also like to work with electronics. In the past I have worked with Arduino, Atmega 32A and also dabbled a bit in RaspberryPi. Also I have experience in PCB designing and CAD.
 
