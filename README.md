@@ -2,9 +2,9 @@
 
 **`Graduate Student of Electrical & Computer Engineering at Rutgers University`**
 
-As an Electronics & Telecommunication Engineer with an undergraduate degree in the same field and a year of experience in the IT industry, I am currently pursuing a Masters degree in Electrical and Computer Engineering with a focus on Software Engineering. My background in electronics has sparked my interest in understanding how software works, and how it can be used to solve real-world problems.
+As an Electronics & Telecommunication Engineer with an undergraduate degree in the same field with a Masters degree in Electrical and Computer Engineering with a focus on Software Engineering and a year of experience in the IT industry, I am currently working as a Systems Engineer @ Molex specializing in all things Smart Building Systems. My background in electronics has sparked my interest in understanding how software works, and how it can be used to solve real-world problems.
 
-I am particularly interested in the Web application development (Full-Stack), Internet of Things, Machine Learning, and computer architecture. I am currently brushing up my programming skills, focusing on Python, C, Data Structures, React.js. I also like to work with electronics. In the past I have worked with Arduino, Atmega 32A and also dabbled a bit in RaspberryPi. Also I have experience in PCB designing and CAD.
+I am particularly interested in the Smart Building Systems, Web application development (Full-Stack), Internet of Things, Machine Learning, and computer architecture. I am currently brushing up my programming skills, focusing on Python, C, Data Structures, React.js. I also like to work with electronics. In the past I have worked with Arduino, Atmega 32A and also dabbled a bit in RaspberryPi. Also I have experience in PCB designing and CAD.
 
 I am always looking for new and challenging projects to work on, and I am excited to continue my learning journey in the field of software engineering. I am eager to collaborate with other developers and contribute to open-source projects. Let's connect and work together to create something amazing.
 
@@ -33,10 +33,10 @@ I am always looking for new and challenging projects to work on, and I am excite
 
 ---
 
-- 🔭 I’m currently working on my Master's thesis.
-- 🌱 I’m also learning Data Structures & Algorithms and GNU Radio.
+- 🔭 I’m currently working at Molex as a Systems Engineer.
+- 🌱 I’m also working on & learning state-of-the-art Smart Building Systems.
 - 👯 I’m interested to collaborate on projects (Full Stack, ML).
-- 🤔 I’m looking for help with GNU Radio.
+- 🤔 I’m looking for help with DevOps & Hardware Troubleshooting & HAM Radio.
 - 💬 Ask me about my research, SimpleScalar and 365 Days of Python.
 - ⚡ Fun fact: I can eat Chicken Schezwan Fried Rice Everyday and I won't get bored. 😋
 
