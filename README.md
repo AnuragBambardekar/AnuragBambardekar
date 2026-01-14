@@ -50,7 +50,7 @@ Always building, learning, and automating things ⚡
 
 ![Bamba's GitHub stats](https://github-readme-statistics-one.vercel.app/api?username=AnuragBambardekar&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnuragBambardekar&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=AnuragBambardekar&theme=gruvbox&border_radius=4.5)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnuragBambardekar&label=Profile%20views&color=0e75b6&style=flat)
 
