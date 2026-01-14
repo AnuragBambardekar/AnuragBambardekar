@@ -2,3 +2,4 @@
 - https://devicon.dev/ - Icons
 - https://github.com/anuraghazra/github-readme-stats - Profile stats
 - https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s - Profile stats rate-limmit error solution
+- https://streak-stats.demolab.com/demo/ - Profile Streak stats
